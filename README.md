@@ -61,6 +61,6 @@ Output: `app/build/outputs/apk/release/app-release.apk`
 
 ## Tested on
 
-| Device | Soundbar |
-|--------|----------|
-| ✅ Xiaomi TV Box S 2nd Gen (MITV-AFKRO) — Google TV 11 | Philips TAB6305/10 |
+| Status | Device | Soundbar |
+|--------|--------|----------|
+| ✅ | Xiaomi TV Box S 2nd Gen (MITV-AFKRO) — Google TV 11 | Philips TAB6305/10 |
