@@ -41,7 +41,7 @@ The app runs a foreground service that plays a 19kHz sine wave tone at 15% ampli
 
 ### Via file manager
 
-Transfer the APK to the device (USB drive, LocalSend, etc.), open it with a file manager, and install. Make sure the file manager app has **Install unknown apps** permission granted specifically for it.
+Transfer the APK to the device (USB drive, [LocalSend](https://github.com/localsend/localsend), etc.), open it with a file manager, and install. Make sure the file manager app has **Install unknown apps** permission granted specifically for it.
 
 ## Usage
 
